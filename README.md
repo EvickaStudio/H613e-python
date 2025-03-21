@@ -2,6 +2,8 @@
 
 This script uses the already reverse engineered Govee H613E bluetooth commands to turn the light on and off.
 
+![Image](./assets/image.png)
+
 ## Usage
 
 Set Govee BLE MAC address in the script.
